@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d85435e-8e2e-463b-981b-bc319e249d90" name="Default Changelist" comment="" />
+    <list default="true" id="4d85435e-8e2e-463b-981b-bc319e249d90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/git/src/com/text1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git" />
   </component>
   <component name="ProjectId" id="2843Zype0532D1pxFoZH4lmBWCh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -30,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/git" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650462089063</updated>
       <workItem from="1650462090228" duration="3545000" />
-      <workItem from="1650515528686" duration="685000" />
+      <workItem from="1650515528686" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1650515698365</created>
@@ -90,7 +93,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650516056905</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第二次提交">
+      <created>1650516276274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650516276274</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第二次提交">
+      <created>1650516348074</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650516348074</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第二次提交">
+      <created>1650516402345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650516402345</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,29 +123,38 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1650516270195">
+    <state x="370" y="86" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650516601642">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1650516270195" />
-    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1650516046635">
+    <state x="370" y="86" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1650516601642" />
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1650516401649">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650516046635" />
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1650516401649" />
+    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1650516386974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650516386974" />
     <state x="141" y="0" key="SettingsEditor" timestamp="1650515918885">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1650515918885" />
-    <state x="232" y="59" key="Vcs.Push.Dialog.v2" timestamp="1650516068565">
+    <state x="232" y="59" key="Vcs.Push.Dialog.v2" timestamp="1650516431624">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="232" y="59" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1650516068565" />
-    <state x="434" y="238" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1650465535440">
+    <state x="232" y="59" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1650516431624" />
+    <state x="346" y="127" key="git4idea.merge.GitPullDialog" timestamp="1650516284395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="434" y="238" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1650465535440" />
+    <state x="346" y="127" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1650516284395" />
+    <state x="434" y="238" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1650516420364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="434" y="238" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1650516420364" />
     <state x="27" y="0" key="new project wizard" timestamp="1650462825861">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
