@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d85435e-8e2e-463b-981b-bc319e249d90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d85435e-8e2e-463b-981b-bc319e249d90" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +18,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2843Zype0532D1pxFoZH4lmBWCh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -37,6 +37,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
@@ -50,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650462089063</updated>
       <workItem from="1650462090228" duration="3545000" />
-      <workItem from="1650515528686" duration="304000" />
+      <workItem from="1650515528686" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1650515698365</created>
@@ -66,33 +69,55 @@
       <option name="project" value="LOCAL" />
       <updated>1650515834195</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次提交">
+      <created>1650515891995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650515891995</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一次提交">
+      <created>1650515958106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650515958106</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第一次提交">
+      <created>1650516056905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650516056905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1650515892005">
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1650516270195">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1650515892005" />
-    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1650467484939">
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1650516270195" />
+    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1650516046635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650467484939" />
+    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650516046635" />
     <state x="141" y="0" key="SettingsEditor" timestamp="1650515918885">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1650515918885" />
-    <state x="232" y="59" key="Vcs.Push.Dialog.v2" timestamp="1650515701476">
+    <state x="232" y="59" key="Vcs.Push.Dialog.v2" timestamp="1650516068565">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="232" y="59" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1650515701476" />
+    <state x="232" y="59" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1650516068565" />
     <state x="434" y="238" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1650465535440">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
